@@ -5,7 +5,7 @@ RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
 
 # Clone game source code
-RUN git clone https://github.com/guyford94/guy-ford-pacman.git
+RUN git clone https://github.com/guyford94/guy-ford-pacman.git .
 
 
 # Install app dependencies
