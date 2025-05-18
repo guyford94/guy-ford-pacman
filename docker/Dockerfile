@@ -4,8 +4,8 @@ FROM node:boron
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
 
-# Clone game source code לשנות לGIT שלי
-RUN git clone https://github.com/font/pacman.git . 
+# Clone game source code
+RUN git clone https://github.com/guyford94/guy-ford-pacman.git
 
 
 # Install app dependencies
