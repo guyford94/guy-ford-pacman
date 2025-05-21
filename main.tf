@@ -49,8 +49,10 @@ module "eks" {
   # Name and version of the cluster
   cluster_name    = "guy-ford-pacman-eks-cluster"
   cluster_version = "1.27"
+
   cluster_endpoint_public_access  = true
   cluster_endpoint_private_access = false
+
   # Network configuration using the default VPC and subnets
   vpc_id     = data.aws_vpc.default.id
   subnet_ids = data.aws_subnets.default.ids
