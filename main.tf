@@ -47,7 +47,7 @@ module "eks" {
   version = "~> 19.0"
 
   # Name and version of the cluster
-  cluster_name    = "guy-ford-pacman-eks-cluster"
+  cluster_name    = "guy-ford-pacman-eks-cluster-1"
   cluster_version = "1.27"
 
   cluster_endpoint_public_access  = true
