@@ -68,9 +68,7 @@ module "eks" {
       min_size     = 2
       instance_types = ["t3.medium"]  # EC2 type
       capacity_type  =  "ON_DEMAND"   # Use on-demand EC2s
-    iam_role_additional_policies = {
-        ebs = "arn:aws:iam::aws:policy/AmazonEBSCSIDriverPolicy"
-      }
+
     }
   }
 
