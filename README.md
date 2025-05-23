@@ -56,5 +56,5 @@ Here are some screenshots from the deployed Pac-Man game:
 - Docker installed
 - GitHub account with a repository
 
-## 📁 Directory Structure (suggested)
+
 
