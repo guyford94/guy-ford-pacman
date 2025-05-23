@@ -6,6 +6,16 @@ This project demonstrates a complete CI/CD pipeline for deploying a containerize
 
 ![Architecture Diagram](./End%20Pro.drawio.png)
 
+## 🕹️ Gameplay Preview
+
+Here are some screenshots from the deployed Pac-Man game:
+
+### 🟡 Game Start
+![Game Screenshot 1](./images/Screenshot%202025-05-23%20110620.png)
+
+### 🟡 Game In Progress
+![Game Screenshot 2](./images/Screenshot%202025-05-23%20110654.png)
+
 ### Key Components
 
 - **GitHub**: Source code repository. Developers push code changes here.
@@ -47,5 +57,4 @@ This project demonstrates a complete CI/CD pipeline for deploying a containerize
 - GitHub account with a repository
 
 ## 📁 Directory Structure (suggested)
-
 
