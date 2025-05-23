@@ -11,10 +11,10 @@ This project demonstrates a complete CI/CD pipeline for deploying a containerize
 Here are some screenshots from the deployed Pac-Man game:
 
 ### 🟡 Game Start
-![Game Screenshot 1](./images/Screenshot%202025-05-23%20110620.png)
+![Game Screenshot 1](./images/Screenshot%1.png)
 
 ### 🟡 Game In Progress
-![Game Screenshot 2](./images/Screenshot%202025-05-23%20110654.png)
+![Game Screenshot 2](./images/Screenshot%2.png)
 
 ### Key Components
 
